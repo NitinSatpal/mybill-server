@@ -1,0 +1,101 @@
+{
+  "configVersion": 1,
+  "timestamp": 1632680210577,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.a0618dbd1f51cdc02131.js",
+        "/manifest.webmanifest",
+        "/polyfills.9dbb016f1c58db74c3c8.js",
+        "/runtime.0e49e2b53282f40c8925.js",
+        "/styles.dc4d1b058eddf8577c99.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/apple-touch-icon.png",
+        "/assets/ngx-rocket-logo.png",
+        "/assets/ngx-rocket-logo@192.png",
+        "/fa-brands-400.216edb96b562c79adc09.svg",
+        "/fa-brands-400.329a95a9172fdb2cccb4.woff",
+        "/fa-brands-400.89a52ae1d02b86d61439.eot",
+        "/fa-brands-400.9e138496e8f1719c6ebf.ttf",
+        "/fa-brands-400.c1210e5ebe4344da5083.woff2",
+        "/fa-regular-400.1017bce89c72f95bcf8e.ttf",
+        "/fa-regular-400.19e27d348fefc21941e0.svg",
+        "/fa-regular-400.3672264812746c3c7225.woff",
+        "/fa-regular-400.4079ae2d2a15d0689568.eot",
+        "/fa-regular-400.68c5af1f48e2bfca1e57.woff2",
+        "/fa-solid-900.07c3313b24f7b1ca85ee.ttf",
+        "/fa-solid-900.13de59f1a36b6cb4bca0.svg",
+        "/fa-solid-900.ada6e6df937f7e5e8b79.woff2",
+        "/fa-solid-900.c6ec080084769a6d8a34.woff",
+        "/fa-solid-900.efbd5d20e407bbf85f2b.eot"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/apple-touch-icon.png": "229df2094cc590088de00ea97a1eb4e4493101d2",
+    "/assets/ngx-rocket-logo.png": "0ac53fd27406fe5a36e68285315fb0012e54058e",
+    "/assets/ngx-rocket-logo@192.png": "461b730f9c6dc818f8af9acbe62dfde24dc02d7a",
+    "/fa-brands-400.216edb96b562c79adc09.svg": "24aff44d36f6c4a6a08230474b546b29641c75d6",
+    "/fa-brands-400.329a95a9172fdb2cccb4.woff": "5f8cab91347c553c1eb87f9b527f6bee8a28e40d",
+    "/fa-brands-400.89a52ae1d02b86d61439.eot": "a400bc89d3cb4d45a3b90791800587a1e4ebafa6",
+    "/fa-brands-400.9e138496e8f1719c6ebf.ttf": "3fa2d67cef22da5c3f3eb5730c6afbd6fecf0372",
+    "/fa-brands-400.c1210e5ebe4344da5083.woff2": "fce0da592a3e536d6d5df5b50cb513398d8c5161",
+    "/fa-regular-400.1017bce89c72f95bcf8e.ttf": "7d849a3981a716e2ba4a84634bc57d0b8054a6a3",
+    "/fa-regular-400.19e27d348fefc21941e0.svg": "8d0198777d4c6ff9c39a387f212b4ef732f70abb",
+    "/fa-regular-400.3672264812746c3c7225.woff": "d33d8b5b15b7bba2cc17190dc685fe0a76d2989e",
+    "/fa-regular-400.4079ae2d2a15d0689568.eot": "894064dfd376fc245fe654723d6c81f625e01363",
+    "/fa-regular-400.68c5af1f48e2bfca1e57.woff2": "0447c6b10bbf73f97b23dcfd6e6a48510822cb6e",
+    "/fa-solid-900.07c3313b24f7b1ca85ee.ttf": "c1b9fae262f42868c075ac865a8ab34920e20a2c",
+    "/fa-solid-900.13de59f1a36b6cb4bca0.svg": "33fe5758f3992d8da2635c4fa230b54376dd18d1",
+    "/fa-solid-900.ada6e6df937f7e5e8b79.woff2": "a9922842a120a7f1eaced667480c5e185a106d69",
+    "/fa-solid-900.c6ec080084769a6d8a34.woff": "52751432ded489dfdf27fb1cf64c570c4c27a1d7",
+    "/fa-solid-900.efbd5d20e407bbf85f2b.eot": "b18bdd10beee0a20231aa4c9ea11e84a9307a4fd",
+    "/favicon.ico": "b65083d46bbf63692d5d2cdd69622e6d7ecae317",
+    "/index.html": "f95a915b4b7d8f5c767c5a875a1204f93894d6c7",
+    "/main.a0618dbd1f51cdc02131.js": "c969b310c6bfee4b2b001d2a0055ea0dd1a7a963",
+    "/manifest.webmanifest": "667f60576bd8c0bb127f5c69876868509b564e9f",
+    "/polyfills.9dbb016f1c58db74c3c8.js": "2116a5df20eec4ad4ed41ec4b01aa93e3af1eda4",
+    "/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/styles.dc4d1b058eddf8577c99.css": "5bab3d7b257256c13a0b0f3d778f8743e7aaacfc"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
